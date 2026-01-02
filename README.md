@@ -65,8 +65,6 @@
 
 ## 🎬 Concept
 
-<br>
-
 <div align="center">
 
 ### 🪟 The "Window" Metaphor
@@ -163,18 +161,31 @@ Flat screens lack depth. Windows don't. **Move your body, and the world beyond f
 
 ### 📍 Tourism Job Festa @ Gangnam AT Center
 
+<div align="center">
+
+<img src="ReadMe/exhibition.gif" width="50%" />  
+
 **2 Days | September 2024 | Public Exhibition**
+
+</div>
 
 Visitors young and old experienced the window metaphor firsthand. Tourism industry experts provided iterative feedback throughout development—refining interaction timing, guide narration pacing, and visual polish for maximum "wow factor" at the booth.
 
-강남 AT 센터 관광일자리페스타에 다양한 관람객이 창문 메타포를 직접 체험했습니다. 개발 전 과정에서 관광 업계 전문가 피드백을 반영—인터랙션 타이밍, 안내 멘트 페이싱, 부스 현장 "와우 팩터"를 위한 비주얼 폴리싱을 거듭했습니다.
+강남 AT 센터 관광일자리페스타에 다양한 관람객이 창문 메타포를 직접 체험했습니다. 개발 과정에서 관광 업계 전문가 피드백을 반영—Lumiion 목업 제작, 인터랙션 타이밍, 부스 현장 "와우 팩터"를 위한 비주얼 폴리싱을 거듭했습니다.
 
 <br>
 
 ### 🥇 Grand Prize — Korea Tourism Organization Director's Award
 
+
+<div align="center">
+
+<img src="ReadMe/award.png" width="50%" />  
+
 **2024 Immersive Tourism Content Competition**  
 Hosted by Korea Tourism Organization (한국관광공사)
+
+</div>
 
 Recognized for:
 - ✅ **Interaction Innovation** — Body-driven parallax without wearables  
