@@ -2,7 +2,7 @@
 
 # 🚂 Tramscape to Korea
 
-  <img src="Images/Introduce.gif" width="50%" />
+  <img src="ReadMe/Introduce.webp" width="50%" />
 
 > *"Lean into the window and explore Korea!" "창문에 몸을 기울여 한국을 여행해요! 🚃🏘️"*  
 > *Your body becomes the camera. Move, and the scenery follows. 몸이 카메라가 됩니다. 움직이면 풍경이 따라와요.*
