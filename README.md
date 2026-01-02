@@ -65,8 +65,6 @@
 
 ## 🎬 Concept
 
-<br>
-
 <div align="center">
 
 ### 🪟 The "Window" Metaphor
