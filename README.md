@@ -136,7 +136,7 @@ Flat screens lack depth. Windows don't. **Move your body, and the world beyond f
 
 | | 🏘️ **Gyeongju Hanok Village** | 🌉 **Woljeong Bridge** |
 |:--:|:--|:--|
-| | <img src="ReadMe/Hanok_Day.jpg" width="100%"/> | <img src="ReadMe/Woljeong_Night.jpg" width="100%"/> |
+| | <img src="ReadMe/Day.gif" width="100%"/> | <img src="ReadMe/Night.gif" width="100%"/> |
 | **Time** | ☀️ Day | 🌙 Night |
 | **Mood** | Warm sunlight over tiled rooftops<br>기와지붕 위로 쏟아지는 따스한 햇살 | Lanterns glowing on ancient waters<br>고요한 물 위에 빛나는 등불 |
 | **Discovery** | Hidden alley details, wooden textures<br>숨겨진 골목 디테일, 나무 질감 | Lantern reflections, bridge structure<br>등불 반사, 다리 구조물 |
