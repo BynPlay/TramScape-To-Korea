@@ -77,7 +77,7 @@
 
 <br> 
 
-Flat screens lack depth. Windows don't. Move your body, and the world beyond feels real. We turned this into gameplay.  
+Flat screens lack depth. Windows don't. **Move your body, and the world beyond feels real.** We turned this into gameplay.  
 
 평면 화면엔 깊이가 없지만 창문엔 있습니다. **몸을 움직이면, 너머가 살아나는 단순한 메타포**를 게임으로 구현했습니다.
 
