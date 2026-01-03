@@ -38,7 +38,6 @@
 ### 📖 Introduce
 
 **Name**: Tramscape to Korea  
-**Genre**: Immersive Simulation / Virtual Tourism  
 **Platform**: PC (Large Display + Azure Kinect)  
 **Duration**: 2024.03 ~ 2024.09  
 
