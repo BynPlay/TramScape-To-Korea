@@ -37,7 +37,8 @@
 
 ### 📖 Introduce
 
-**Name**: Tramscape to Korea  
+**Name**: Tramscape to Korea    
+**Genre:** Motion Game    
 **Platform**: PC (Large Display + Azure Kinect)  
 **Duration**: 2024.03 ~ 2024.09  
 
