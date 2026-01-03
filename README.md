@@ -51,7 +51,7 @@
 | Position | Role | Name | University & Major |
 |:--|:--|:--|:--|
 | 🎨 Art | 3D Artist | Patricia Joan | Kyung Hee Univ.<br>Hotel Management |
-| 💻 Dev | PM & Interaction Design | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
+| 💻 Dev | TPM & Interaction Design | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
 | 💻 Dev | Game Client Developer | [Byunghoon Kang](https://github.com/dot-mario) | Kyung Hee Univ.<br>Software Convergence |
 | 💻 Dev | Gameplay Programmer | [Minsu Kim](https://github.com/Nephrite21) | Kyung Hee Univ.<br>Software Convergence |
 | 💻 Dev | Graphics Technical Artist | [Yonghyun Kwon](https://github.com/Noperi0r) | Kyung Hee Univ.<br>Software Convergence |
