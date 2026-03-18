@@ -13,7 +13,7 @@
 
 <br>
 
-🚃 Tramscape to Korea는 **당신의 몸으로 디스플레이를 한국의 관광 명소로 통하는 창문으로 만드는 실감형 기차 여행 게임**입니다. 왼쪽으로 기울이면 경주 한옥마을의 기와지붕이 펼쳐지고, 앞으로 다가서면 고즈넉한 처마가 눈앞으로 다가옵니다. 헤드셋도, 컨트롤러도 필요 없이 오직 몸의 움직임만으로. 실시간 바디 트래킹이 자연스러운 움직임을 시네마틱한 운동 시차로 바꿔, 평면 화면을 한국의 아름다운 랜드마크로 향하는 기차 창문처럼 느끼게 해줍니다.
+🚃 Tramscape to Korea는 **당신의 몸으로 디스플레이를 한국의 관광 명소로 통하는 창문으로 만드는 실감형 기차 여행 콘텐츠**입니다. 왼쪽으로 기울이면 경주 한옥마을의 기와지붕이 펼쳐지고, 앞으로 다가서면 고즈넉한 처마가 눈앞으로 다가옵니다. 헤드셋도, 컨트롤러도 필요 없이 오직 몸의 움직임만으로. 실시간 바디 트래킹이 자연스러운 움직임을 시네마틱한 운동 시차로 바꿔, 평면 화면을 한국의 아름다운 랜드마크로 향하는 기차 창문처럼 느끼게 해줍니다.
 
 ---
 
@@ -52,8 +52,8 @@
 | Position | Role | Name | University & Major |
 |:--|:--|:--|:--|
 | 🎨 Art | 3D Artist | Patricia Joanne | Kyung Hee Univ.<br>Hotel Management |
-| 💻 Dev | TPM & Interaction Design | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
-| 💻 Dev | Game Client Developer | [Byunghoon Kang](https://github.com/dot-mario) | Kyung Hee Univ.<br>Software Convergence |
+| 💻 Dev | Sensor-based Development & Interaction Design | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
+| 💻 Dev | Client Developer | [Byunghoon Kang](https://github.com/dot-mario) | Kyung Hee Univ.<br>Software Convergence |
 | 💻 Dev | Gameplay Programmer | [Minsu Kim](https://github.com/Nephrite21) | Kyung Hee Univ.<br>Software Convergence |
 | 💻 Dev | Graphics Technical Artist | [Yonghyun Kwon](https://github.com/Noperi0r) | Kyung Hee Univ.<br>Software Convergence |
 
@@ -77,7 +77,7 @@
 
 Flat screens lack depth. Windows don't. **Move your body, and the world beyond feels real.** We turned this into gameplay.  
 
-평면 화면엔 깊이가 없지만 창문엔 있습니다. **몸을 움직이면, 너머가 살아나는 단순한 메타포**를 게임으로 구현했습니다.
+평면 화면엔 깊이가 없지만 창문엔 있습니다. **몸을 움직이면, 너머가 살아나는 단순한 메타포**를 구현했습니다.
 
 | Design Pillar | Description |
 |:--|:--|
